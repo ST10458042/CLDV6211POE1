@@ -1,8 +1,41 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center py-5">
+    <h1 class="display-3 fw-bold mb-3" style="letter-spacing: 4px;">EVENTEASE</h1>
+    <p class="lead mb-5" style="color: #aaaaaa;">Your all-in-one venue booking management system</p>
+</div>
+
+<div class="row g-4 mt-2">
+    <div class="col-md-4">
+        <div class="card text-center p-4 h-100">
+            <div class="mb-3" style="font-size: 3rem;">🏛️</div>
+            <h3 class="fw-bold mb-2" style="letter-spacing: 2px;">VENUES</h3>
+            <p style="color: #aaaaaa;">Manage all available venues and their details</p>
+            <div class="mt-auto pt-3">
+                <a asp-controller="Venues" asp-action="Index" class="btn btn-primary">View Venues</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center p-4 h-100">
+            <div class="mb-3" style="font-size: 3rem;">📅</div>
+            <h3 class="fw-bold mb-2" style="letter-spacing: 2px;">EVENTS</h3>
+            <p style="color: #aaaaaa;">View and manage all scheduled events</p>
+            <div class="mt-auto pt-3">
+                <a asp-controller="Events" asp-action="Index" class="btn btn-primary">View Events</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center p-4 h-100">
+            <div class="mb-3" style="font-size: 3rem;">📋</div>
+            <h3 class="fw-bold mb-2" style="letter-spacing: 2px;">BOOKINGS</h3>
+            <p style="color: #aaaaaa;">Handle and track all venue bookings</p>
+            <div class="mt-auto pt-3">
+                <a asp-controller="Bookings" asp-action="Index" class="btn btn-primary">View Bookings</a>
+            </div>
+        </div>
+    </div>
 </div>

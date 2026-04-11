@@ -148,7 +148,6 @@ C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\scopedcss\bundle\EventEase.styles.css
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\scopedcss\projectbundle\EventEase.bundle.scp.css
-C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\compressed\lvhof90p4l-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\compressed\k71v5d56iu-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\compressed\9r7fdp6lmu-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\compressed\ol5ddtyvc6-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -338,3 +337,4 @@ C:\Users\lab_services_student\source\repos\EventEase\EventEase\bin\Debug\net10.0
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\lab_services_student\source\repos\EventEase\EventEase\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\source\repos\EventEase\EventEase\obj\Debug\net10.0\compressed\lvhof90p4l-{0}-e20grgvp5i-e20grgvp5i.gz
